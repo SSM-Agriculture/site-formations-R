@@ -1,11 +1,9 @@
 # Site web de présentation des formations R dispensées au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/) sur <img height="26" width="26" src="https://cdn.simpleicons.org/r/00ccff99" />
 
 <p align="center">
-<div style="margin: 0 auto; width: 100px;" id="badges">
   <a href="https://XXX">
     <img src="https://img.shields.io/badge/Site%20de%20la%20formation-blue?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
   </a>
-</div>
 </p>
 
 
