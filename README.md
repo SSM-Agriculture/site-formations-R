@@ -6,7 +6,7 @@ Ensemble des supports des formations sur `R données au [MASA](https://agreste.a
 Les supports de formation sont déployés sur un site dédié :
 
 <p align="center">
-  <a href="https://XXX">
+  <a href="https://ssm-agriculture.github.io/site-formations-R/">
     <img src="https://img.shields.io/badge/Site%20de%20la%20formation-blue?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
   </a>
 </p>
