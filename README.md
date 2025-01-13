@@ -1,9 +1,9 @@
 # Site web de présentation des formations R dispensées au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/) sur <img height="26" width="26" src="https://cdn.simpleicons.org/r/00ccff99" />
 
 
-Ensemble des supports des formations "__Bonnes pratiques pour les projets statistiques avec `Git` et `R`__" données à l'Insee et dans le [service statistique publique](https://www.insee.fr/fr/information/1302192).
+Ensemble des supports des formations sur `R`__" données au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/).
 
-Les supports de formation sont déployés sur un [site dédié](https://XXX).
+Les supports de formation sont déployés sur un site dédié :
 
 <p align="center">
   <a href="https://XXX">
