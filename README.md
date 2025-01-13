@@ -1,7 +1,7 @@
 # Site web de présentation des formations R dispensées au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/) sur <img height="26" width="26" src="https://cdn.simpleicons.org/r/00ccff99" />
 
 
-Ensemble des supports des formations sur `R`__" données au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/).
+Ensemble des supports des formations sur `R données au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/).
 
 Les supports de formation sont déployés sur un site dédié :
 
@@ -15,7 +15,7 @@ Les supports de formation sont déployés sur un site dédié :
 
 La formation est structurée en plusieurs modules afin de répondre aux différents besoins exprimés par les agents du MASA. 
 
-### Liste des modules
+### Liste des modules disponibles
 
 - :zero: 00 - Module initiation (2 jours)
 - :one: 01 - Module rappels de la formation initiation (1 jour)
