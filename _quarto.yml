@@ -12,7 +12,7 @@ website:
         text: Accueil
       - icon: github
         href: https://github.com/SSM-Agriculture/site-formations-R
-    background: "#25b23a"
+    background: "#008000"
 
 format:
   html:
