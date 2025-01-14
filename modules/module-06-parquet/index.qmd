@@ -1,7 +1,7 @@
 ---
 image: parquet-logo.png
 title: Module sur le format parquet
-date: "2023-09-08"
+date: "2025-01-14"
 description: |
   <br>
   Diaporama de présentation
