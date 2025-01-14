@@ -22,7 +22,7 @@ categories:
   - R
   - Initiation
 slides:
-  text: Slides
+  text: Diaporama
   url: https://ssm-agriculture.github.io/formation-git
 code:
   text: Code 
