@@ -1,0 +1,28 @@
+---
+image: initiation-logo.png
+title: Formation initiation
+description: |
+  <br>
+  Diaporama de présentation
+  pour le module initiation. 
+  <br>
+  <br>
+  <b>Version 1/2 journée</b>
+abstract: |
+  <br>
+  Diaporama de présentation
+  pour le module initiation. 
+  <br>
+  <br>
+  <b>Version 2 journées</b>
+categories:
+  - R
+  - Initiation
+slides:
+  text: Diaporama
+  url: https://github.com/SSM-Agriculture/formation-git
+code:
+  text: Code 
+  url: https://github.com/InseeFrLab/formation-bonnes-pratiques-git-R
+order: 1
+---
