@@ -1,0 +1,31 @@
+---
+image: cartographie-logo.png
+title: Module cartographique
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à la création
+  de cartes statiques et interactives.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+abstract: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à la création
+  de cartes statiques et interactives.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+categories:
+  - R
+  - Graphiques
+slides:
+  text: Diaporama
+  url: https://ssm-agriculture.github.io/formation-git/
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/Formation-R-perf-05-cartographie
+order: 6
+---
