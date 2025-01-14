@@ -1,0 +1,31 @@
+---
+image: rappels_logo.png
+title: Module de rappels sur la formation initiation
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de présentation pour
+  le module rappels sur la 
+  formation initiation.
+  <br>
+  <br>
+  <b>Version en une journée</b>
+abstract: |
+  <br>
+  Diaporama de présentation pour
+  le module rappels sur la 
+  formation initiation.
+  <br>
+  <br>
+  <b>Version en une journée</b>
+categories:
+  - R
+  - Initiation
+slides:
+  text: Slides
+  url: https://ssm-agriculture.github.io/formation-git
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-01-rappels
+order: 2
+---
