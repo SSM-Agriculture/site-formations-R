@@ -1,5 +1,5 @@
 ---
-image: shiny-logo.png
+image: git-logo.png
 title: Module Git
 date: "2025-01-14"
 description: |
