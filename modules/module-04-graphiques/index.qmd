@@ -6,7 +6,7 @@ description: |
   <br>
   Diaporama de présentation pour
   le module dédié à la création
-  de graphiques avec {ggplot2}.
+  de cartes statiques et interactives.
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
@@ -14,18 +14,18 @@ abstract: |
   <br>
   Diaporama de présentation pour
   le module dédié à la création
-  de graphiques avec {ggplot2}.
+  de cartes statiques et interactives.
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
 categories:
   - R
-  - Graphiques
+  - Cartographie
 slides:
   text: Diaporama
   url: https://ssm-agriculture.github.io/formation-git/
 code:
   text: Code 
-  url: https://github.com/SSM-Agriculture/Formation-R-perf-03-quarto
+  url: https://github.com/SSM-Agriculture/Formation-R-perf-04-graphiques
 order: 5
 ---
