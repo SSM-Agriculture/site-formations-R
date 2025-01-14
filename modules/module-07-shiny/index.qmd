@@ -1,0 +1,31 @@
+---
+image: shiny-logo.png
+title: Module Shiny
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'introduction
+  au développement d'applications Shiny.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+abstract: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'introduction
+  au développement d'applications Shiny.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+categories:
+  - R
+  - Shiny
+slides:
+  text: Diaporama
+  url: https://ssm-agriculture.github.io/formation-git/
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/Formation-R-perf-07-shiny
+order: 8
+---
