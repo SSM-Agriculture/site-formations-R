@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/modules/module-02-fonctions/index.html",
+      "/modules/module-01-rappels/index.html",
+      "/modules/module-00-initiation/index.html",
+      "/modules/module-03-quarto/index.html",
+      "/modules/module-04-graphiques/index.html",
+      "/modules/module-05-cartographie/index.html",
+      "/modules/module-07-shiny/index.html",
+      "/modules/module-06-parquet/index.html"
+    ]
+  }
+]

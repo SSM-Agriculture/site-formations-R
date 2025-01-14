@@ -1,0 +1,30 @@
+.no-anchor.card-title.listing-title {
+    font-weight: bolder !important;
+    color: #ff562c !important;
+    }
+
+
+.navbar-title code {
+    color: #ff562c;
+    background-color: inherit;
+  }
+
+
+.grid-item-link {
+    color: inherit;
+    text-decoration: none; /* Remove underline */
+    transition: transform 0.2s ease-in-out; /* Add transition for smooth effect */
+}
+  
+.grid-item-link:hover {
+    transform: scale(1.05); /* Increase the scale for a zoom effect */
+}
+
+.center-xy {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateY(-50%), translateX(-50%);
+    transform: translateY(-50%), translateX(-50%);
+  }
