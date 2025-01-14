@@ -20,7 +20,7 @@ abstract: |
   <b>Version en 1/2 journée</b> 
 categories:
   - R
-  - Graphiques
+  - Cartographie
 slides:
   text: Diaporama
   url: https://ssm-agriculture.github.io/formation-git/
