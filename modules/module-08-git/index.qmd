@@ -1,0 +1,31 @@
+---
+image: shiny-logo.png
+title: Module Git
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'utilisation
+  de Git avec RStudio.
+  <br>
+  <br>
+  <b>Version en une journée</b> 
+abstract: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'utilisation
+  de Git avec RStudio.
+  <br>
+  <br>
+  <b>Version en une journée</b> 
+categories:
+  - R
+  - Git
+slides:
+  text: Diaporama
+  url: https://ssm-agriculture.github.io/formation-git/
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/formation-git
+order: 9
+---
