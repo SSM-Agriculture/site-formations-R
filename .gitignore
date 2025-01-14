@@ -12,3 +12,4 @@
 *.sty
 *.docx
 *.odt
+/.quarto/
