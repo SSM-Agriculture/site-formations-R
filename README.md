@@ -26,6 +26,6 @@ La formation est structurée en plusieurs modules afin de répondre aux différe
 - :six: 06 - Module format parquet (0,5 jour)
 - :seven: 07 - Module découverte de shiny (0,5 jour)
 
-- Module complémentaire sur l'utilisation de Git avec RStudio (1 jour)  
+- :eigth: Module complémentaire sur l'utilisation de Git avec RStudio (1 jour)  
 Voir le diaporama de formation [sur cette page](https://github.com/SSM-Agriculture/formation-git).
 
