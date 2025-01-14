@@ -1,0 +1,31 @@
+---
+image: fonctions-logo.png
+title: Module sur les fonctions
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de formation pour
+  le module dédié à l'écriture
+  fonctionnelle.
+  <br>
+  <br>
+  <b>Version en une journée</b> 
+abstract: |
+  <br>
+  Diaporama de formation pour
+  le module dédié à l'écriture
+  fonctionnelle.
+  <br>
+  <br>
+  <b>Version en une journée</b> 
+categories:
+  - R
+  - Fonctions
+slides:
+  text: Diaporama
+  url: https://ssm-agriculture.github.io/formation-git/#/title-slide
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-02-fonctions
+order: 3
+---
