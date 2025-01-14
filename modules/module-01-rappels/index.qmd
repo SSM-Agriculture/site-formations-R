@@ -1,5 +1,5 @@
 ---
-image: rappels_logo.png
+image: rappels-logo.png
 title: Module de rappels sur la formation initiation
 date: "2025-01-14"
 description: |
