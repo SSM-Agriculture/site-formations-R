@@ -1,0 +1,31 @@
+---
+image: parquet-logo.png
+title: Module sur le format parquet
+date: "2023-09-08"
+description: |
+  <br>
+  Diaporama de présentation
+  pour le module dédié aux données
+  au format Parquet. 
+  <br>
+  <br>
+  <b>Durée : 1/2 journée</b> 
+abstract: |
+  <br>
+  Diaporama de présentation
+  pour le module dédié aux données
+  au format Parquet. 
+  <br>
+  <br>
+  <b>Durée : 1/2 journée</b> 
+categories:
+  - R
+  - Parquet
+slides:
+  text: DIAPORAMA
+  url: https://github.com/SSM-Agriculture/formation-git
+code:
+  text: Code 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-06-parquet
+order: 7
+---
