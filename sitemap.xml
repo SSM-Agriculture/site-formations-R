@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/index.html</loc>
-    <lastmod>2025-01-14T14:37:05.852Z</lastmod>
+    <lastmod>2025-01-14T14:46:17.763Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-00-initiation/index.html</loc>
-    <lastmod>2025-01-14T14:37:07.101Z</lastmod>
+    <lastmod>2025-01-14T14:46:18.869Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-01-rappels/index.html</loc>
-    <lastmod>2025-01-14T14:37:08.310Z</lastmod>
+    <lastmod>2025-01-14T14:46:20.025Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-02-fonctions/index.html</loc>
-    <lastmod>2025-01-14T14:37:09.493Z</lastmod>
+    <lastmod>2025-01-14T14:46:21.091Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-03-quarto/index.html</loc>
-    <lastmod>2025-01-14T14:37:10.787Z</lastmod>
+    <lastmod>2025-01-14T14:46:22.174Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-04-graphiques/index.html</loc>
-    <lastmod>2025-01-14T14:37:12.009Z</lastmod>
+    <lastmod>2025-01-14T14:46:23.332Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-05-cartographie/index.html</loc>
-    <lastmod>2025-01-14T14:37:13.207Z</lastmod>
+    <lastmod>2025-01-14T14:46:24.466Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-06-parquet/index.html</loc>
-    <lastmod>2025-01-14T14:37:14.432Z</lastmod>
+    <lastmod>2025-01-14T14:46:25.652Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-07-shiny/index.html</loc>
-    <lastmod>2025-01-14T14:37:15.661Z</lastmod>
+    <lastmod>2025-01-14T14:46:26.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-08-git/index.html</loc>
+    <lastmod>2025-01-14T14:46:27.956Z</lastmod>
   </url>
 </urlset>
