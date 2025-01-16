@@ -23,7 +23,7 @@ categories:
   - Parquet
 slides:
   text: DIAPORAMA
-  url: https://github.com/SSM-Agriculture/formation-git
+  url: https://ssm-agriculture.github.io/formation-R-perf-06-parquet/
 code:
   text: Code 
   url: https://github.com/SSM-Agriculture/formation-R-perf-06-parquet
