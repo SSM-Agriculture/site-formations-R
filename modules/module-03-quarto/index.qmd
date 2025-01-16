@@ -1,6 +1,6 @@
 ---
 image: quarto-logo.png
-title: Sensibilisation pour les agents
+title: Module sur quarto
 date: "2025-01-14"
 description: |
   <br>
