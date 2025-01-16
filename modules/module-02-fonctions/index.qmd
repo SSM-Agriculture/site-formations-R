@@ -23,7 +23,7 @@ categories:
   - Fonctions
 slides:
   text: Diaporama
-  url: https://ssm-agriculture.github.io/formation-git/#/title-slide
+  url: https://ssm-agriculture.github.io/formation-R-perf-02-fonctions/
 code:
   text: Code 
   url: https://github.com/SSM-Agriculture/formation-R-perf-02-fonctions
