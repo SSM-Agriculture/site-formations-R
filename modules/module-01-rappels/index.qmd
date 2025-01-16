@@ -23,7 +23,7 @@ categories:
   - Initiation
 slides:
   text: Diaporama
-  url: https://ssm-agriculture.github.io/formation-git
+  url: https://ssm-agriculture.github.io/formation-R-perf-01-rappels/
 code:
   text: Code 
   url: https://github.com/SSM-Agriculture/formation-R-perf-01-rappels
