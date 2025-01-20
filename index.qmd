@@ -9,6 +9,8 @@ page-layout: full
 toc: false
 ---
 
+![](img/bandeau_agreste.jpg)
+
 ## Modules de formations à {{< fa brands r-project >}} dispensés au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/)
 
 L'ensemble des modules peuvent être suivis indépendamment les uns des autres.
