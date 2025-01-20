@@ -5,16 +5,16 @@ date: "2025-01-14"
 description: |
   <br>
   Ressources associées aux 
-  différents modules de formations
-  (énoncés + exercices).
+  différents modules de la formation
+  Perfectionnement (énoncés + exercices).
   <br>
   <br>
   <b>À télécharger</b> 
 abstract: |
   <br>
   Ressources associées aux 
-  différents modules de formations
-  (énoncés + exercices).
+  différents modules de la formation
+  Perfectionnement (énoncés + exercices).
   <br>
   <br>
   <b>À télécharger</b> 
