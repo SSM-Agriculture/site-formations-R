@@ -16,8 +16,7 @@ abstract: |
   <br>
   <b>Version 2 journées</b>
 categories:
-  - R
-  - Initiation
+  - Prise en main
 slides:
   text: Diaporama
   url: https://github.com/SSM-Agriculture/formation-git

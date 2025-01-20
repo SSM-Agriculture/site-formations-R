@@ -19,8 +19,7 @@ abstract: |
   <br>
   <b>Version en 1/2 journée</b> 
 categories:
-  - R
-  - Quarto
+  - Perfectionnement
 slides:
   text: Diaporama
   url: https://ssm-agriculture.github.io/formation-git/

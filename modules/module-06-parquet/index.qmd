@@ -19,8 +19,7 @@ abstract: |
   <br>
   <b>Durée : 1/2 journée</b> 
 categories:
-  - R
-  - Parquet
+  - Perfectionnement
 slides:
   text: DIAPORAMA
   url: https://ssm-agriculture.github.io/formation-R-perf-06-parquet/

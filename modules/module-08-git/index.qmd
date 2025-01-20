@@ -19,7 +19,6 @@ abstract: |
   <br>
   <b>Version en une journée</b> 
 categories:
-  - R
   - Git
 slides:
   text: Diaporama
