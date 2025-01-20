@@ -50,18 +50,25 @@ const imgHeight = "100%";
               }
             </style>
             <div class="listing-categories" style="padding-top: 1em;">
-              <% if ('slides') { %>
+              <% if ('slides' || 'code') { %>
                 <div class="listing-category">
                   <% if (item.slides.url) { %>
                     <a class="listing-href" href="<%= item.slides.url %>" target="_blank" rel="noopener">
                       <% if (item.slides.text) { %>
                         <%= item.slides.text %>
                       <% } else { %>
-                        Slides
+                        DIAPORAMA
+                      <% } %>
+                    </a><span> | </span>
+                  <% } %>
+                  <% if (item.code.url) { %>
+                    <a class="listing-href" href="<%= item.code.url %>" target="_blank" rel="noopener">
+                      <% if (item.code.text) { %>
+                        <%= item.code.text %>
+                      <% } else { %>
+                        CODE
                       <% } %>
                     </a>
-                  <% } else { %>
-                    <a class="listing-href" href="<%= item.code %>" target="_blank" rel="noopener">Slides</a>
                   <% } %>
                 </div>
               <% } %>
