@@ -29,3 +29,10 @@ La formation est structurée en plusieurs modules afin de répondre aux différe
 - :eight: Module complémentaire sur l'utilisation de Git avec RStudio (1 jour)  
 Voir le diaporama de formation [sur cette page](https://github.com/SSM-Agriculture/formation-git).
 
+## Build
+
+Pour rendre le site localement, exécuter la commande suivante depuis la racine du projet :  
+
+```sh
+quarto preview
+```
