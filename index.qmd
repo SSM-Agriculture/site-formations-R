@@ -22,3 +22,7 @@ Les supports sont sur le [`Github du SSM Agriculture` {{< fa brands github >}}](
 
 ::: {#modulesformations}
 :::
+
+## Exercices
+
+Les ressources associées aux exercices (énoncées et corrections) sont disponibles [sur cette page(https://github.com/SSM-Agriculture/site-formations-R/wiki).
