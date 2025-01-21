@@ -22,7 +22,7 @@ categories:
   - Perfectionnement
 slides:
   text: Diaporama
-  url: https://ssm-agriculture.github.io/formation-git/
+  url: https://ssm-agriculture.github.io/Formation-R-perf-05-cartographie/
 code:
   text: Code 
   url: https://github.com/SSM-Agriculture/Formation-R-perf-05-cartographie
