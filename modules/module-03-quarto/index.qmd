@@ -10,6 +10,8 @@ description: |
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
+  <br>
+  <p><b style="color: red;">À venir...</b></p>
 abstract: |
   <br>
   Diaporama de présentation pour
@@ -18,6 +20,8 @@ abstract: |
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
+  <br>
+  <p><b style="color: red;">À venir...</b></p>
 categories:
   - Perfectionnement
 slides:

@@ -8,6 +8,8 @@ description: |
   <br>
   <br>
   <b>Version 2 journées</b>
+  <br>
+  <p><b style="color: red;">À venir...</b></p>
 abstract: |
   <br>
   Diaporama de présentation
@@ -15,6 +17,8 @@ abstract: |
   <br>
   <br>
   <b>Version 2 journées</b>
+  <br>
+  <p><b style="color: red;">À venir...</b></p>
 categories:
   - Initiation
 slides:
