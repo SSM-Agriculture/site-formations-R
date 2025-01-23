@@ -29,6 +29,10 @@ La formation est structurée en plusieurs modules afin de répondre aux différe
 - :eight: Module complémentaire sur l'utilisation de Git avec RStudio (1 jour)  
 Voir le diaporama de formation [sur cette page](https://github.com/SSM-Agriculture/formation-git).
 
+## Wiki
+
+Le [wiki de ce dépôt](https://github.com/SSM-Agriculture/site-formations-R/wiki) contient l'ensemble des ressources associées aux différents modules de formation (énoncé, corrigés et données).  
+
 ## Build
 
 Pour rendre le site localement, exécuter la commande suivante depuis la racine du projet :  
