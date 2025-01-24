@@ -33,6 +33,10 @@ Voir le diaporama de formation [sur cette page](https://github.com/SSM-Agricultu
 
 Le [wiki de ce dépôt](https://github.com/SSM-Agriculture/site-formations-R/wiki) contient l'ensemble des ressources associées aux différents modules de formation (énoncé, corrigés et données).  
 
+## Contributions
+
+Un rapide tutoriel qui détaille la manière de contribuer aux ressources des dépôts de formation est disponible [ici](https://github.com/user-attachments/files/18537156/Tuto.-.Comment.contribuer.pdf).
+
 ## Build
 
 Pour rendre le site localement, exécuter la commande suivante depuis la racine du projet :  
