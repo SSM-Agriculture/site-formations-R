@@ -26,9 +26,9 @@ categories:
   - Perfectionnement
 slides:
   text: Diaporama
-  url: https://ssm-agriculture.github.io/formation-git/
+  url: https://ssm-agriculture.github.io/Formation-R-perf-03-quarto/
 code:
   text: Code 
-  url: https://github.com/SSM-Agriculture/Owner-avatar-formation-R-perf-03-quarto
+  url: https://github.com/SSM-Agriculture/Formation-R-perf-03-quarto
 order: 4
 ---
