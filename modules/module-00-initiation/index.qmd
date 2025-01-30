@@ -9,7 +9,7 @@ description: |
   <br>
   <b>Version 2 journées</b>
   <br>
-  <p><b style="color: red;">À venir...</b></p>
+  <p><b style="color: red;">En cours...</b></p>
 abstract: |
   <br>
   Diaporama de présentation
@@ -18,14 +18,14 @@ abstract: |
   <br>
   <b>Version 2 journées</b>
   <br>
-  <p><b style="color: red;">À venir...</b></p>
+  <p><b style="color: red;">En cours...</b></p>
 categories:
   - Initiation
 slides:
   text: Diaporama
-  url: https://github.com/SSM-Agriculture/formation-git
+  url: https://ssm-agriculture.github.io/formation-R-initiation/
 code:
   text: Code 
-  url: https://github.com/InseeFrLab/formation-bonnes-pratiques-git-R
+  url: https://github.com/SSM-Agriculture/formation-R-initiation
 order: 1
 ---
