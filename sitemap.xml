@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-exercices/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-07-shiny/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.379Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-05-cartographie/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.371Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-03-quarto/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.358Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-01-rappels/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.340Z</lastmod>
-  </url>
-  <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.324Z</lastmod>
+    <lastmod>2025-01-30T15:12:45.891Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-00-initiation/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.330Z</lastmod>
+    <lastmod>2025-01-30T15:12:46.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-01-rappels/index.html</loc>
+    <lastmod>2025-01-30T15:12:47.844Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-02-fonctions/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.356Z</lastmod>
+    <lastmod>2025-01-30T15:12:48.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-03-quarto/index.html</loc>
+    <lastmod>2025-01-30T15:12:49.707Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-04-graphiques/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.366Z</lastmod>
+    <lastmod>2025-01-30T15:12:50.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-05-cartographie/index.html</loc>
+    <lastmod>2025-01-30T15:12:51.584Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-06-parquet/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.373Z</lastmod>
+    <lastmod>2025-01-30T15:12:52.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-07-shiny/index.html</loc>
+    <lastmod>2025-01-30T15:12:53.475Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-08-git/index.html</loc>
-    <lastmod>2025-01-27T12:56:32.386Z</lastmod>
+    <lastmod>2025-01-30T15:12:54.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-exercices/index.html</loc>
+    <lastmod>2025-01-30T15:12:55.301Z</lastmod>
   </url>
 </urlset>
