@@ -1,7 +1,7 @@
-# Site web de présentation des formations R dispensées au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/) sur <img height="26" width="26" src="https://cdn.simpleicons.org/r/00ccff99" />
+# Site web de présentation des formations dispensées au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/) sur <img height="26" width="26" src="https://cdn.simpleicons.org/r/00ccff99" /> et <img height="26" width="26" src="https://cdn.simpleicons.org/git/00ccff99" />
 
 
-Ensemble des supports des formations sur `R données au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/).
+Ensemble des supports des formations sur R et Git données au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/).
 
 Les supports de formation sont déployés sur un site dédié :
 
