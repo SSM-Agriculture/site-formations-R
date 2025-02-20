@@ -1,20 +1,20 @@
 ---
 image: exercices-logo.png
-title: Exercices
+title: Ressources
 date: "2025-01-14"
 description: |
   <br>
   Ressources associées aux 
-  différents modules de la formation
-  Perfectionnement (énoncés + exercices).
+  différents modules de formation
+  (énoncés + exercices + Version pdf).
   <br>
   <br>
   <b>À télécharger</b> 
 abstract: |
   <br>
   Ressources associées aux 
-  différents modules de la formation
-  Perfectionnement (énoncés + exercices).
+  différents modules de formation
+  (énoncés + exercices + Version pdf).
   <br>
   <br>
   <b>À télécharger</b> 
