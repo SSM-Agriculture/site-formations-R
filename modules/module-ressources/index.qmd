@@ -1,5 +1,5 @@
 ---
-image: exercices-logo.png
+image: ressources-logo.png
 title: Ressources
 date: "2025-01-14"
 description: |
@@ -19,7 +19,7 @@ abstract: |
   <br>
   <b>À télécharger</b> 
 categories:
-  - Exercices
+  - Ressources
 slides:
   text: Ressources
   url: https://github.com/SSM-Agriculture/site-formations-R/wiki
