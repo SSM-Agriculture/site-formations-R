@@ -20,11 +20,11 @@ abstract: |
   <b>Version en 1/2 journée</b> 
 categories:
   - Perfectionnement
-slides:
-  text: Diaporama
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/Formation-R-perf-03-quarto/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/Formation-R-perf-03-quarto
+pdf:
+  text: Pdf 
+  url: https://github.com/user-attachments/files/18688682/Diaporama_module_quarto.pdf
 order: 4
 ---

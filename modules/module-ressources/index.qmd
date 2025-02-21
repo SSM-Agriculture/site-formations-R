@@ -20,7 +20,7 @@ abstract: |
   <b>À télécharger</b> 
 categories:
   - Ressources
-slides:
+html:
   text: Ressources
   url: https://github.com/SSM-Agriculture/site-formations-R/wiki
 order: 10

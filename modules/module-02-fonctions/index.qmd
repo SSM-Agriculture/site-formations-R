@@ -20,11 +20,11 @@ abstract: |
   <b>Version en une journée</b> 
 categories:
   - Perfectionnement
-slides:
-  text: Diaporama
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/formation-R-perf-02-fonctions/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/formation-R-perf-02-fonctions
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-02-fonctions/raw/main/diaporama_pdf/Diaporama_modules_fonctions.pdf
 order: 3
 ---

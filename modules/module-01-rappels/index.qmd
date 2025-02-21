@@ -20,11 +20,11 @@ abstract: |
   <b>Version en une journée</b>
 categories:
   - Perfectionnement
-slides:
-  text: Diaporama
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/formation-R-perf-01-rappels/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/formation-R-perf-01-rappels
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-01-rappels/raw/main/diaporama_pdf/Diaporama_modules_rappels.pdf
 order: 2
 ---

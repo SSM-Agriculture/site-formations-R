@@ -17,7 +17,7 @@ const imgHeight = "100%";
 <div class="list grid quarto-listing-cols-<%=cols%>">
 <% for (const item of items) { %>
   <div class="g-col-1" <%= metadataAttrs(item) %>>
-    <a href="<%= item.slides.url %>" target="_blank" rel="noopener" class="grid-item-link"> <!-- Added link wrapper -->
+    <a href="<%= item.html.url %>" target="_blank" rel="noopener" class="grid-item-link"> <!-- Added link wrapper -->
       <div class="quarto-grid-item card h-100 <%-`card-${align}`%><%= hideBorders ? ' borderless' : '' %>">
         <% if (item.image) { %>
           <p class="card-img-top">
@@ -49,23 +49,40 @@ const imgHeight = "100%";
                 text-decoration: none; /* Remove underline */
               }
             </style>
-            <div class="listing-categories" style="padding-top: 1em;">
-              <% if ('slides') { %>
-                <div class="listing-category">
-                  <% if (item.slides.url) { %>
-                    <a class="listing-href" href="<%= item.slides.url %>" target="_blank" rel="noopener">
-                      <% if (item.slides.text) { %>
-                        <%= item.slides.text %>
-                      <% } else { %>
-                        Slides
-                      <% } %>
-                    </a>
-                  <% } else { %>
-                    <a class="listing-href" href="<%= item.code %>" target="_blank" rel="noopener">Slides</a>
-                  <% } %>
-                </div>
-              <% } %>
-            </div>
+<div class="listing-categories" style="padding-top: 1em;">
+  <% if (item.html) { %>
+    <div class="listing-category green-background">
+      <% if (item.html.url) { %>
+        <a class="listing-href style-categories" href="<%= item.html.url %>" target="_blank" rel="noopener">
+          <% if (item.html.text) { %>
+            <%= item.html.text %>
+          <% } else { %>
+            Html
+          <% } %>
+        </a>
+      <% } else { %>
+        <a class="listing-href style-categories" href="<%= item.html.url %>" target="_blank" rel="noopener">Slides</a>
+      <% } %>
+    </div>
+  <% } %>
+
+  <% if (item.pdf) { %>
+    <div class="listing-category green-background">
+      <% if (item.pdf.url) { %>
+        <a class="listing-href style-categories" href="<%= item.pdf.url %>" target="_blank" rel="noopener">
+          <% if (item.pdf.text) { %>
+            <%= item.pdf.text %>
+          <% } else { %>
+            Pdf
+          <% } %>
+        </a>
+      <% } else { %>
+        <a class="listing-href" href="<%= item.pdf.url %>" target="_blank" rel="noopener">Code</a>
+      <% } %>
+    </div>
+  <% } %>
+</div>
+
           </div>
         <% } %>
 

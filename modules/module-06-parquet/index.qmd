@@ -20,11 +20,11 @@ abstract: |
   <b>Durée : 1/2 journée</b> 
 categories:
   - Perfectionnement
-slides:
-  text: DIAPORAMA
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/formation-R-perf-06-parquet/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/formation-R-perf-06-parquet
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-06-parquet/raw/main/diaporama_pdf/Diaporama_modules_parquet.pdf
 order: 7
 ---

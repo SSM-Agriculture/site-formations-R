@@ -17,6 +17,16 @@
     background-color: inherit;
   }
 
+.green-background {
+  background-color: #008000;
+}
+
+.style-categories {
+  color: white !important;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 5px;
+}
 
 .grid-item-link {
     color: inherit;

@@ -20,11 +20,11 @@ abstract: |
   <b>Version en 1/2 journée</b> 
 categories:
   - Perfectionnement
-slides:
-  text: Diaporama
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/Formation-R-perf-04-graphiques/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/Formation-R-perf-04-graphiques
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-04-graphiques/raw/main/diaporama_pdf/Diaporama_modules_graphiques.pdf
 order: 6
 ---

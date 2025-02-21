@@ -17,11 +17,11 @@ abstract: |
   <b>Version 2 journées</b>
 categories:
   - Initiation
-slides:
-  text: Diaporama
+html:
+  text: Html
   url: https://ssm-agriculture.github.io/formation-R-initiation/
-code:
-  text: Code 
-  url: https://github.com/SSM-Agriculture/formation-R-initiation
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-initiation/raw/master/diaporama_pdf/Diaporama_initiation.pdf
 order: 1
 ---
