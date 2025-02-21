@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/index.html</loc>
-    <lastmod>2025-02-21T13:15:46.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-00-initiation/index.html</loc>
-    <lastmod>2025-02-21T13:15:47.550Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-01-rappels/index.html</loc>
-    <lastmod>2025-02-21T13:15:48.703Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-02-fonctions/index.html</loc>
-    <lastmod>2025-02-21T13:15:50.183Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-03-quarto/index.html</loc>
-    <lastmod>2025-02-21T13:15:51.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-04-graphiques/index.html</loc>
-    <lastmod>2025-02-21T13:15:52.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-05-cartographie/index.html</loc>
-    <lastmod>2025-02-21T13:15:52.989Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-06-parquet/index.html</loc>
-    <lastmod>2025-02-21T13:15:53.900Z</lastmod>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-ressources/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.382Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-07-shiny/index.html</loc>
-    <lastmod>2025-02-21T13:15:54.852Z</lastmod>
+    <lastmod>2025-02-21T13:21:47.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-05-cartographie/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-03-quarto/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-01-rappels/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-00-initiation/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-02-fonctions/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-04-graphiques/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.377Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-06-parquet/index.html</loc>
+    <lastmod>2025-02-21T13:21:47.378Z</lastmod>
   </url>
   <url>
     <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-08-git/index.html</loc>
-    <lastmod>2025-02-21T13:15:55.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SSM-Agriculture.github.io/site-formations-R/modules/module-ressources/index.html</loc>
-    <lastmod>2025-02-21T13:15:56.765Z</lastmod>
+    <lastmod>2025-02-21T13:21:47.381Z</lastmod>
   </url>
 </urlset>
