@@ -7,31 +7,27 @@ on:
       - main
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
-  pull-requests: write
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    name: Publication site
-    environment:
-      name: github-pages
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions: 
+      contents: write
+      pages: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: pre-release
-          tinytex: false
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # Add any additional steps as needed, such as installing dependencies
+      - name: Build and Deploy
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          branch: gh-pages  
+          target: gh-pages
