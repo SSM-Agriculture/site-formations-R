@@ -19,7 +19,7 @@ categories:
   - Fondamentaux
 html:
   text: Html
-  url: https://SSM-Agriculture/formation-fondamentaux-programmation/
+  url: https://SSM-Agriculture.github.io/formation-fondamentaux-programmation/
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-fondamentaux-programmation/raw/master/diaporama_pdf/Diaporama_fondamentaux.pdf
