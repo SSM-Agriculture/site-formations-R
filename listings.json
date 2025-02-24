@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/modules/module-fondamentaux/index.html",
       "/modules/module-00-initiation/index.html",
       "/modules/module-01-rappels/index.html",
       "/modules/module-02-fonctions/index.html",
