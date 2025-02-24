@@ -1,0 +1,27 @@
+---
+image: initiation-logo.png
+title: Formation les fondamentaux de la programmation
+description: |
+  <br>
+  Diaporama de présentation
+  pour les fondamentaux de la programmation. 
+  <br>
+  <br>
+  <b>Version une journée</b>
+abstract: |
+  <br>
+  Diaporama de présentation
+  pour les fondamentaux de la programmation. 
+  <br>
+  <br>
+  <b>Version une journée</b>
+categories:
+  - Fondamentaux
+html:
+  text: Html
+  url: https://github.com/SSM-Agriculture/formation-fondamentaux-programmation/
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-fondamentaux-programmation/raw/master/diaporama_pdf/Diaporama_fondamentaux.pdf
+order: 1
+---
