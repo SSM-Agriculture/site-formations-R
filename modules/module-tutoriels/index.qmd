@@ -22,6 +22,6 @@ categories:
   - Tutoriels
 html:
   text: Liste des tutoriels
-  url: https://ssm-agriculture.github.io/Formation-R-perf-04-graphiques/
+  url: https://ssm-agriculture.github.io/site-tutoriels/
 order: 12
 ---
