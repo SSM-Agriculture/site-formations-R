@@ -1,0 +1,27 @@
+---
+image: tutoriels-logo.png
+title: Tutoriels
+date: "2025-03-10"
+description: |
+  <br>
+  Différents tutoriels
+  liés à l'écosystème R
+  présentés au MASA
+  <br>
+  <br>
+  <b>À consulter</b> 
+abstract: |
+  <br>
+  Différents tutoriels
+  liés à l'écosystème R
+  présentés au MASA
+  <br>
+  <br>
+  <b>À consulter</b> 
+categories:
+  - Tutoriels
+html:
+  text: Liste des tutoriels
+  url: https://ssm-agriculture.github.io/Formation-R-perf-04-graphiques/
+order: 12
+---
