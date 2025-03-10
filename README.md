@@ -10,6 +10,8 @@ Les supports de formation sont déployés sur un site dédié :
 
 </p>
 
+Ce site contient également différents tutoriels présentés lors du GUR (Groupe des Utilisateurs R) qui a lieu environ tous les 2 mois.  
+
 ## Contenu
 
 La formation est structurée en plusieurs modules afin de répondre aux différents besoins exprimés par les agents du MASA.
