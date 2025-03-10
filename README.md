@@ -36,6 +36,8 @@ La formation est structurée en plusieurs modules afin de répondre aux différe
 
 -   :eight: Module complémentaire sur l'utilisation de Git avec RStudio (1 jour)\
 
+-   :nine: Différents tutoriels dispensés au MASA.
+
 ## Wiki
 
 Le [wiki de ce dépôt](https://github.com/SSM-Agriculture/site-formations-R/wiki) contient l'ensemble des ressources associées aux différents modules de formation (énoncé, corrigés et données).
