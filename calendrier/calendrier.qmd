@@ -1,6 +1,11 @@
 ---
-title: "Calendrier des formations"
-format: html
+title: "Calendrier"
+format:
+  html:
+    includes:
+      before-body: header.html
+embed-resources: true
+self-contained: true
 ---
 
 ![](../img/bandeau_agreste.jpg)

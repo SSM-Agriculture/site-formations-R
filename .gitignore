@@ -15,3 +15,7 @@
 /.quarto/
 /index_files/
 /_site/
+
+# On conserve les fichiers calendrier.html et header.html dans le dossier calendrier
+!calendrier/calendrier.html
+!calendrier/header.html
