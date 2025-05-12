@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Accueil
-      - href: modules/calendrier.qmd
+      - href: calendrier/calendrier.html
         text: Calendrier
       - icon: github
         href: https://github.com/SSM-Agriculture/site-formations-R

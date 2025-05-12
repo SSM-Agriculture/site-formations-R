@@ -1,0 +1,18 @@
+---
+title: "Calendrier des formations"
+format: html
+---
+
+![](../img/bandeau_agreste.jpg)
+
+## Liste des formations
+
+Voici la liste prévisionnelle des formations à venir au SSP.\
+Ce tableau est régulièrement mis à jour par l'équipe des formateurs R.
+
+| Lieu      | Formation | Durée | Dates | Nombre participants |
+|-----------|-----------|-------|-------|---------------------|
+| Auzeville |           |       |       |                     |
+| Paris     |           |       |       |                     |
+| Lyon      |           |       |       |                     |
+|           |           |       |       |                     |
