@@ -36,7 +36,7 @@ Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](http
 
 | Lieu  | Formation                          | Durée   | Date(s)                                        | Nombre participants max |
 |-------|------------------------------------|---------|------------------------------------------------|-------------------------|
-| PARIS | ? (1jour) + R initiation (2 jours) | 3 jours | Du mardi 30 sept. 2025 au jeudi 2 oct. 2025 <br>   | 12                      |
+| PARIS | Rgonomie (1jour) + R initiation (2 jours) | 3 jours | Du mardi 30 sept. 2025 au jeudi 2 oct. 2025 <br>   | 12                      |
 
 <br>
 
