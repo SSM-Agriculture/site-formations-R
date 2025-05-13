@@ -23,7 +23,8 @@ self-contained: true
 ## Liste des formations
 
 Voici la liste prévisionnelle des formations à venir au SSP.\
-Ce tableau est régulièrement mis à jour par l'équipe des formateurs R.
+Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](https://github.com/orgs/SSM-Agriculture/teams/equipe_r).  
+
 
 | Lieu       | Formation                                         | Durée       | Date(s)                                        | Nombre participants max |
 |------------|---------------------------------------------------|-------------|------------------------------------------------|-------------------------|
@@ -35,7 +36,7 @@ Ce tableau est régulièrement mis à jour par l'équipe des formateurs R.
 
 | Lieu  | Formation                          | Durée   | Date(s)                                        | Nombre participants max |
 |-------|------------------------------------|---------|------------------------------------------------|-------------------------|
-| PARIS | ? (1jour) + R initiation (2 jours) | 3 jours | Mardi 30 sept. 2025 au Jeudi 2 oct. 2025 <br>   | 12                      |
+| PARIS | ? (1jour) + R initiation (2 jours) | 3 jours | Du mardi 30 sept. 2025 au jeudi 2 oct. 2025 <br>   | 12                      |
 
 <br>
 
@@ -43,4 +44,4 @@ Ce tableau est régulièrement mis à jour par l'équipe des formateurs R.
 |-----------|-----------------------------------------|---------|------------------------------------------|-------------------------|
 | AUZEVILLE | Module Parquet                          | 1 jour  | Mardi 7 oct. 2025                        | 12                      |
 | AUZEVILLE | Module Quarto                           | 1 jour  | Mardi 14 oct. 2025                        | 12                      |
-| AUZEVILLE | Rgonomie (1jour)+ R initiation (2jours) | 3 jours | Mardi 18 nov. 2025 au Jeudi 20 nov. 2025  | 10                      |
+| AUZEVILLE | Rgonomie (1jour)+ R initiation (2jours) | 3 jours | Du mardi 18 nov. 2025 au jeudi 20 nov. 2025  | 10                      |
