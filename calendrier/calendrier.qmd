@@ -4,6 +4,16 @@ format:
   html:
     includes:
       before-body: header.html
+    include-in-header: 
+      text: |
+        <style>
+          table thead {
+            background-color: #008000;
+          }
+          table thead th {
+            color: white !important;
+          }
+        </style>
 embed-resources: true
 self-contained: true
 ---
@@ -15,9 +25,22 @@ self-contained: true
 Voici la liste prévisionnelle des formations à venir au SSP.\
 Ce tableau est régulièrement mis à jour par l'équipe des formateurs R.
 
-| Lieu      | Formation | Durée | Dates | Nombre participants |
-|-----------|-----------|-------|-------|---------------------|
-| Auzeville |           |       |       |                     |
-| Paris     |           |       |       |                     |
-| Lyon      |           |       |       |                     |
-|           |           |       |       |                     |
+| Lieu       | Formation                                         | Durée       | Date(s)                                        | Nombre participants max |
+|------------|---------------------------------------------------|-------------|------------------------------------------------|-------------------------|
+| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mercredi 17 sept. 2025 <br>Mardi 23 sept. 2025  | 10                      |
+| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mardi 4 nov. 2025                              | 10                      |
+| DISTANCIEL | Prise en main de l'environnement de programmation | 1/2 journée | A définir. en septembre                        | N/A                     |
+
+<br>
+
+| Lieu  | Formation                          | Durée   | Date(s)                                        | Nombre participants max |
+|-------|------------------------------------|---------|------------------------------------------------|-------------------------|
+| PARIS | ? (1jour) + R initiation (2 jours) | 3 jours | Mardi 30 sept. 2025 au Jeudi 2 oct. 2025 <br>   | 12                      |
+
+<br>
+
+| Lieu      | Formation                               | Durée   | Date(s)                                  | Nombre participants max |
+|-----------|-----------------------------------------|---------|------------------------------------------|-------------------------|
+| AUZEVILLE | Module Parquet                          | 1 jour  | Mardi 7 oct. 2025                        | 12                      |
+| AUZEVILLE | Module Quarto                           | 1 jour  | Mardi 14 oct. 2025                        | 12                      |
+| AUZEVILLE | Rgonomie (1jour)+ R initiation (2jours) | 3 jours | Mardi 18 nov. 2025 au Jeudi 20 nov. 2025  | 10                      |
