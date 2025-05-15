@@ -23,6 +23,9 @@ self-contained: true
 ## Liste des formations
 
 Voici la liste prévisionnelle des formations à venir au SSP.\
+
+Ces formations s'adressent aux agents du SSM Agriculture (SSP, SRISE et SISE).  
+
 Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](https://github.com/orgs/SSM-Agriculture/teams/equipe_r).  
 
 
