@@ -1,0 +1,27 @@
+---
+image: cerise-logo.png
+title: Prise en main de l'environnement de programmation Cerise
+description: |
+  <br>
+  Diaporama de présentation
+  pour la prise en main du RStudion workbench
+  Cerise du MASA
+  <br>
+  <b>Version une journée</b>
+abstract: |
+  <br>
+  Diaporama de présentation
+  pour la prise en main du RStudion workbench
+  Cerise du MASA
+  <br>
+  <b>Version 1/2 journée</b>
+categories:
+  - Cerise
+html:
+  text: Html
+  url: https://SSM-Agriculture.github.io/formation-cerise/
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-cerise/raw/master/diaporama_pdf/Diaporama_cerise.pdf
+order: 1
+---
