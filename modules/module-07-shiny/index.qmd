@@ -26,5 +26,5 @@ html:
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-R-perf-07-shiny/raw/master/diaporama_pdf/Diaporama_modules_shiny.pdf
-order: 9
+order: 11
 ---

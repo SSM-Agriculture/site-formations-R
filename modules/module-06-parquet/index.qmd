@@ -26,5 +26,5 @@ html:
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-R-perf-06-parquet/raw/main/diaporama_pdf/Diaporama_modules_parquet.pdf
-order: 8
+order: 10
 ---

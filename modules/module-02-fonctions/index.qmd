@@ -26,5 +26,5 @@ html:
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-R-perf-02-fonctions/raw/main/diaporama_pdf/Diaporama_modules_fonctions.pdf
-order: 4
+order: 6
 ---

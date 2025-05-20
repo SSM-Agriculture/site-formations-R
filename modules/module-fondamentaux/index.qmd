@@ -23,5 +23,5 @@ html:
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-fondamentaux-programmation/raw/master/diaporama_pdf/Diaporama_fondamentaux.pdf
-order: 1
+order: 3
 ---

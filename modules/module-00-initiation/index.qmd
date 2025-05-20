@@ -23,5 +23,5 @@ html:
 pdf:
   text: Pdf 
   url: https://github.com/SSM-Agriculture/formation-R-initiation/raw/master/diaporama_pdf/Diaporama_initiation.pdf
-order: 2
+order: 4
 ---
