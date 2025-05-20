@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/modules/module-cerise/index.html",
+      "/modules/module-rgonomie/index.html",
       "/modules/module-fondamentaux/index.html",
       "/modules/module-00-initiation/index.html",
       "/modules/module-01-rappels/index.html",
