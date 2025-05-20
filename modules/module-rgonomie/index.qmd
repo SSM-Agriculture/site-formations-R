@@ -1,0 +1,27 @@
+---
+image: rgonomie-logo.png
+title: Formation sur l'application Rgonomie
+description: |
+  <br>
+  Diaporama de présentation
+  pour l'utilisation de l'application
+  Rgonomie
+  <br>
+  <b>Version une journée</b>
+abstract: |
+  <br>
+  Diaporama de présentation
+  pour l'utilisation de l'application
+  Rgonomie
+  <br>
+  <b>Version une journée</b>
+categories:
+  - Fondamentaux
+html:
+  text: Html
+  url: https://SSM-Agriculture.github.io/formation-rgonomie/
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-rgonomie/raw/master/diaporama_pdf/Diaporama_rgonomie.pdf
+order: 2
+---
