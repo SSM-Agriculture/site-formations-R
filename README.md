@@ -20,6 +20,10 @@ La formation est structurée en plusieurs modules afin de répondre aux différe
 
 -   Les fondamentaux de la programmation (1 jour)
 
+-   Prise en main des outils de traitements de données (Cerise/Onyxia) (1/2 journée)
+
+-   Utilisation de l'application Rgonomie (1 jour)
+
 -   :zero: 00 - Module initiation (2 jours)
 
 -   :one: 01 - Module rappels de la formation initiation (1 jour)
