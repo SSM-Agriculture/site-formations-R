@@ -19,9 +19,9 @@ categories:
   - Cerise
 html:
   text: Html
-  url: https://SSM-Agriculture.github.io/formation-cerise/
+  url: https://ssm-agriculture.github.io/formation-cerise
 pdf:
   text: Pdf 
-  url: https://github.com/SSM-Agriculture/formation-cerise/raw/master/diaporama_pdf/Diaporama_cerise.pdf
+  url: https://github.com/SSM-Agriculture/formation-cerise/raw/main/diaporama_pdf/Diaporama_module_cerise.pdf
 order: 1
 ---
