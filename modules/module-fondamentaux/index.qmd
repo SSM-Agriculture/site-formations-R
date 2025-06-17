@@ -8,6 +8,8 @@ description: |
   <br>
   <br>
   <b>Version une journée</b>
+  <br>
+  <a href="https://ssm-agriculture.github.io/formation-fondamentaux-programmation-exercices/" target="_blank" style="color: #008000; font-weight: bold;">cf. diaporama exercices</a>
 abstract: |
   <br>
   Diaporama de présentation
@@ -15,6 +17,8 @@ abstract: |
   <br>
   <br>
   <b>Version une journée</b>
+  <br>
+  <a href="https://ssm-agriculture.github.io/formation-fondamentaux-programmation-exercices/" target="_blank" style="color: #008000; font-weight: bold;">cf. diaporama exercices</a>
 categories:
   - Fondamentaux
 html:
