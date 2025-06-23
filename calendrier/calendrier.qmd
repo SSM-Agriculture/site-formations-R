@@ -31,20 +31,22 @@ Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](http
 
 | Lieu       | Formation                                         | Durée       | Date(s)                                        | Nombre participants max |
 |------------|---------------------------------------------------|-------------|------------------------------------------------|-------------------------|
-| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mercredi 17 sept. 2025 <br>Mardi 23 sept. 2025  | 10                      |
+| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mercredi 17 sept. 2025 <br>Mardi 23 sept. 2025 | 10                      |
 | DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mardi 4 nov. 2025                              | 10                      |
-| DISTANCIEL | Prise en main de l'environnement de programmation | 1/2 journée | A définir. en septembre                        | N/A                     |
+| DISTANCIEL | Prise en main de l'environnement de programmation | 1/2 journée | Mardi 16 sept. 2025 <br>Mardi 25 nov. 2025     |                         |
 
 <br>
 
-| Lieu  | Formation                          | Durée   | Date(s)                                        | Nombre participants max |
-|-------|------------------------------------|---------|------------------------------------------------|-------------------------|
-| PARIS | Rgonomie (1jour) + R initiation (2 jours) | 3 jours | Du mardi 30 sept. 2025 au jeudi 2 oct. 2025 <br>   | 12                      |
+| Lieu  | Formation              | Durée   | Date(s)                                         | Nombre participants max |
+|-------|------------------------|---------|-------------------------------------------------|-------------------------|
+| PARIS | R initiation (2 jours) | 2 jours | Du mardi 30 sept. 2025 au mercredi 1 oct. 2025  | 12                      |
+| PARIS | Git                    | 1 jour  | Jeudi 2 oct. 2025                               | 12                      |
 
 <br>
 
 | Lieu      | Formation                               | Durée   | Date(s)                                  | Nombre participants max |
 |-----------|-----------------------------------------|---------|------------------------------------------|-------------------------|
 | AUZEVILLE | Module Parquet                          | 1 jour  | Mardi 7 oct. 2025                        | 12                      |
-| AUZEVILLE | Module Quarto                           | 1 jour  | Mardi 14 oct. 2025                        | 12                      |
-| AUZEVILLE | Rgonomie (1jour)+ R initiation (2jours) | 3 jours | Du mardi 18 nov. 2025 au jeudi 20 nov. 2025  | 10                      |
+| AUZEVILLE | Module Quarto                           | 1 jour  | Mardi 14 oct. 2025                       | 12                      |
+| AUZEVILLE | Rgonomie                                | 1 jour  | mardi 18 nov. 2025                       | 10                      |
+| AUZEVILLE | R initiation                            | 2 jours | Du mercredi 19 nov. 2025 au jeudi 20 nov. 2025  | 10               |
