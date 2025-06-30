@@ -19,3 +19,7 @@
 # On conserve les fichiers calendrier.html et header.html dans le dossier calendrier
 !calendrier/calendrier.html
 !calendrier/header.html
+
+# Même chose pour les replays
+!replays/replays.html
+!replays/header.html
