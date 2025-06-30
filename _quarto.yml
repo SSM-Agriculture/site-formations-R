@@ -12,6 +12,8 @@ website:
         text: Accueil
       - href: calendrier/calendrier.html
         text: Calendrier
+      - href: replays/replays.html
+        text: Replays
       - icon: github
         href: https://github.com/SSM-Agriculture/site-formations-R
     background: "#008000"
