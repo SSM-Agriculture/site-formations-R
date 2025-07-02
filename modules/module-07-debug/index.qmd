@@ -1,6 +1,6 @@
 ---
 image: debug-logo.png
-title: Module Shiny
+title: Module débogage
 date: "2025-07-01"
 description: |
   <br>
