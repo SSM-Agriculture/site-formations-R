@@ -1,0 +1,30 @@
+---
+image: shiny-logo.png
+title: Module Shiny
+date: "2025-01-14"
+description: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'introduction
+  au développement d'applications Shiny.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+abstract: |
+  <br>
+  Diaporama de présentation pour
+  le module dédié à l'introduction
+  au développement d'applications Shiny.
+  <br>
+  <br>
+  <b>Version en 1/2 journée</b> 
+categories:
+  - Perfectionnement
+html:
+  text: Html
+  url: https://ssm-agriculture.github.io/Formation-R-perf-07-shiny/
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-perf-07-shiny/raw/master/diaporama_pdf/Diaporama_modules_shiny.pdf
+order: 12
+---
