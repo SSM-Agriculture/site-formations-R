@@ -25,6 +25,6 @@ html:
   url: https://ssm-agriculture.github.io/formation_debug/
 pdf:
   text: Pdf 
-  url: https://github.com/SSM-Agriculture/formation_debug/raw/master/diaporama_pdf/Diaporama_debug.pdf
+  url: https://github.com/SSM-Agriculture/formation_debug/raw/main/diaporama_pdf/Diaporama_debug.pdf
 order: 11
 ---
