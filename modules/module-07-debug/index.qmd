@@ -1,20 +1,20 @@
 ---
-image: shiny-logo.png
+image: debug-logo.png
 title: Module Shiny
-date: "2025-01-14"
+date: "2025-07-01"
 description: |
   <br>
   Diaporama de présentation pour
-  le module dédié à l'introduction
-  au développement d'applications Shiny.
+  le module dédié aux techniques
+  de debugging/débogage.
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
 abstract: |
   <br>
   Diaporama de présentation pour
-  le module dédié à l'introduction
-  au développement d'applications Shiny.
+  le module dédié aux techniques
+  de debugging/débogage.
   <br>
   <br>
   <b>Version en 1/2 journée</b> 
@@ -22,9 +22,9 @@ categories:
   - Perfectionnement
 html:
   text: Html
-  url: https://ssm-agriculture.github.io/Formation-R-perf-07-shiny/
+  url: https://ssm-agriculture.github.io/formation_debug/
 pdf:
   text: Pdf 
-  url: https://github.com/SSM-Agriculture/formation-R-perf-07-shiny/raw/master/diaporama_pdf/Diaporama_modules_shiny.pdf
+  url: https://github.com/SSM-Agriculture/formation_debug/raw/master/diaporama_pdf/Diaporama_debug.pdf
 order: 11
 ---
