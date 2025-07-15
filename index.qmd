@@ -12,7 +12,7 @@ toc: false
 
 ![](img/bandeau_agreste.jpg)
 
-## Modules de formations à {{< fa brands r-project >}} et {{< fa brands git-alt >}} dispensés au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/)
+## Modules de formations à {{< fa brands r-project >}} et Git {{< fa brands git-alt >}} dispensés au [SSM Agriculture](https://agreste.agriculture.gouv.fr/agreste-web/)
 
 L'ensemble des modules peuvent être suivis indépendamment les uns des autres.  
 
