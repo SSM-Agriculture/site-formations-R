@@ -9,7 +9,7 @@ description: |
   au format quarto.
   <br>
   <br>
-  <b>Version en 1/2 journée</b> 
+  <b>Version une journée</b> 
 abstract: |
   <br>
   Diaporama de présentation pour
@@ -17,7 +17,7 @@ abstract: |
   au format quarto.
   <br>
   <br>
-  <b>Version en 1/2 journée</b> 
+  <b>Version une journée</b> 
 categories:
   - Perfectionnement
 html:

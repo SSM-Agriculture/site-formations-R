@@ -9,7 +9,7 @@ description: |
   au format Parquet. 
   <br>
   <br>
-  <b>Durée : 1/2 journée</b> 
+  <b>Version une journée</b> 
 abstract: |
   <br>
   Diaporama de présentation
@@ -17,7 +17,7 @@ abstract: |
   au format Parquet. 
   <br>
   <br>
-  <b>Durée : 1/2 journée</b> 
+  <b>Version une journée</b> 
 categories:
   - Perfectionnement
 html:

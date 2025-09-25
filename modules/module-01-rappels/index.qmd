@@ -9,7 +9,7 @@ description: |
   formation initiation.
   <br>
   <br>
-  <b>Version en une journée</b>
+  <b>Version une journée</b>
 abstract: |
   <br>
   Diaporama de présentation pour
@@ -17,7 +17,7 @@ abstract: |
   formation initiation.
   <br>
   <br>
-  <b>Version en une journée</b>
+  <b>Version une journée</b>
 categories:
   - Perfectionnement
 html:
