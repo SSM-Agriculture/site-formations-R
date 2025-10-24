@@ -28,4 +28,6 @@ Les supports sont sur le [`Github du SSM Agriculture` {{< fa brands github >}}](
 ## Crédits
 
 Cette formation est le fruit d'un travail collaboratif des agents du ministère.  
-Les supports sont diffusés en [licence ouverte](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) et peuvent être utilisés en citant les contributeurs et la source.
+Les supports sont diffusés en [licence ouverte](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) et peuvent être utilisés en citant les contributeurs et la source.  
+
+D'autres ressources en français peuvent également être consultées pour compléter ces formations, notamment [utilitr](https://utilitr.org/) et le [parcours de formation à R du MTE](https://mtes-mct.github.io/parcours-r/).
