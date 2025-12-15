@@ -24,28 +24,72 @@ self-contained: true
 
 Voici la liste prévisionnelle des formations à venir au SSP.\
 
-Ces formations s'adressent aux agents du SSM Agriculture (SSP, SRISE et SISE).  
+Ces formations s'adressent aux agents du SSM Agriculture (SSP, SRISE et SISE).
 
-Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](https://github.com/orgs/SSM-Agriculture/teams/equipe_r).  
+Ce tableau est régulièrement mis à jour par [l'équipe des formateurs R](https://github.com/orgs/SSM-Agriculture/teams/equipe_r).
 
-
-| Lieu       | Formation                                         | Durée       | Date(s)                                        | Nombre participants max |
-|------------|---------------------------------------------------|-------------|------------------------------------------------|-------------------------|
-| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mercredi 17 sept. 2025 <br>Mardi 23 sept. 2025 | 10                      |
-| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | Mardi 4 nov. 2025                              | 10                      |
-| DISTANCIEL | Prise en main de l'environnement de programmation | 1/2 journée | Mardi 16 sept. 2025 <br>Mardi 25 nov. 2025     |                         |
++------------+---------------------------------------------------+-------------+--------------------------------------------+-------------------------+
+| Lieu       | Formation                                         | Durée       | Date(s)                                    | Nombre participants max |
++============+===================================================+=============+============================================+=========================+
+| DISTANCIEL | Fondamentaux de la programmation                  | 1jour       | **À définir sur le T4 2026**               |                         |
+|            |                                                   |             |                                            |                         |
+|            |                                                   |             | <br>                                       |                         |
+|            |                                                   |             |                                            |                         |
+|            |                                                   |             | En amont des formations R initiation Paris |                         |
++------------+---------------------------------------------------+-------------+--------------------------------------------+-------------------------+
+| DISTANCIEL | Prise en main des outils de traitement de données | 1/2 journée | **À définir sur le T4 2026**               |                         |
+|            |                                                   |             |                                            |                         |
+|            |                                                   |             | <br>                                       |                         |
+|            |                                                   |             |                                            |                         |
+|            |                                                   |             | En amont des formations R initiation Paris |                         |
++------------+---------------------------------------------------+-------------+--------------------------------------------+-------------------------+
 
 <br>
 
-| Lieu  | Formation              | Durée   | Date(s)                                         | Nombre participants max |
-|-------|------------------------|---------|-------------------------------------------------|-------------------------|
-| PARIS | R initiation (2 jours) | 2 jours | Du mardi 30 sept. 2025 au mercredi 1 oct. 2025  | 12                      |
-| PARIS | Git                    | 1 jour  | Jeudi 2 oct. 2025                               | 12                      |
++-----------+-----------------------------------+-----------+------------------------+-------------------------+
+| Lieu      | Formation                         | Durée     | Date(s)                | Nombre participants max |
++===========+===================================+===========+========================+=========================+
+| PARIS     | R perfectionnement : socle commun | 2 jours   | 3 et 4 février 2026    | 12                      |
++-----------+-----------------------------------+-----------+------------------------+-------------------------+
+| PARIS     | 3 modules R perfectionnement :    | 3 jours   | 24, 25 et 26 mars 2026 | 12                      |
+|           |                                   |           |                        |                         |
+|           | -   Graphiques                    |           |                        |                         |
+|           |                                   |           |                        |                         |
+|           | -   Carto                         |           |                        |                         |
+|           |                                   |           |                        |                         |
+|           | -   Parquet                       |           |                        |                         |
++-----------+-----------------------------------+-----------+------------------------+-------------------------+
+| PARIS     | 3 modules R perfectionnement :    | 3 jours   | 16, 17 et 18 juin 2026 | 12                      |
+|           |                                   |           |                        |                         |
+|           | -   Shiny                         |           |                        |                         |
+|           |                                   |           |                        |                         |
+|           | -   Quarto                        |           |                        |                         |
+|           |                                   |           |                        |                         |
+|           | -   Git                           |           |                        |                         |
++-----------+-----------------------------------+-----------+------------------------+-------------------------+
+| PARIS     | R initiation                      | 2 jours   | 6 et 7 octobre 2026    | 12                      |
++-----------+-----------------------------------+-----------+------------------------+-------------------------+
 
 <br>
 
-| Lieu      | Formation                               | Durée   | Date(s)                                  | Nombre participants max |
-|-----------|-----------------------------------------|---------|------------------------------------------|-------------------------|
-| AUZEVILLE | Module Parquet                          | 1 jour  | Mardi 7 oct. 2025                        | 12                      |
-| AUZEVILLE | Module Quarto                           | 1 jour  | Mardi 14 oct. 2025                       | 12                      |
-| AUZEVILLE | R initiation                            | 2 jours | Du mercredi 19 nov. 2025 au jeudi 20 nov. 2025  | 10               |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| Lieu      | Formation                           | Durée     | Date(s)             | Nombre participants max |
++===========+=====================================+===========+=====================+=========================+
+| AUZEVILLE | R perfectionnement : socle commun   | 2 jours   | 17 et 18 mars 2026  | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module Shiny                        | 1 jour    | 26 mars 2026        | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module Git                          | 1 jour    | 2 avril 2026        | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module Graphiques ou Cartographique | 1 jour    | 7 avril 2026        | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module perf. à définir              | 1 jour    | 4 juin 2026         | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module perf. à définir              | 1 jour    | 18 juin 2026        | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | Module perf. à définir              | 1 jour    | À définir sur le T4 | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+| AUZEVILLE | R initiation                        | 2 jours   | À définir sur le T4 | 12                      |
++-----------+-------------------------------------+-----------+---------------------+-------------------------+
+
+Module debogage : à tester en formation à distance ou sur le site d'Auzeville.
